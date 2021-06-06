@@ -1,0 +1,35 @@
+@media screen and (max-width:1000px){
+    nav{
+        flex-direction: column;
+    
+    }
+    .log{
+ justify-content: center;
+ margin: 12px 0px;
+     }
+     nav ul{
+        justify-content: center;
+ margin: 12px 0px; 
+ height: 34px;
+     }
+     .serch{
+        justify-content: center;
+        
+     }
+     .serch input{
+         margin:12px 16px
+     }
+     .slider{
+         height: 23vh;
+     }
+     .card-item img{
+         width: 140px;
+     }
+}
+
+
+@media screen and (max-width:1172px){
+    .burger p{
+        visibility: visible;
+    }
+}
